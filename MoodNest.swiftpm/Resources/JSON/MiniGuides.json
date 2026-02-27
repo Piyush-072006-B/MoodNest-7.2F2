@@ -1,0 +1,144 @@
+{
+  "guides": [
+    {
+      "id": "anxiety-101",
+      "title": "Coping with Anxiety: A Beginner's Guide",
+      "icon": "cloud.rain.fill",
+      "readTime": "6 min",
+      "sections": [
+        {
+          "heading": "Understanding Anxiety",
+          "content": "Anxiety is your body's natural response to stress. It's a feeling of fear or apprehension about what's to come. While occasional anxiety is a normal part of life, excessive or persistent anxiety can interfere with daily activities. Recognizing that anxiety is a common human experience is the first step toward managing it effectively."
+        },
+        {
+          "heading": "Grounding Techniques",
+          "content": "When you feel overwhelmed, try the 5-4-3-2-1 technique to reconnect with the present moment:\n• 5 things you can see (e.g., a chair, a plant)\n• 4 things you can touch (e.g., your desk, the fabric of your clothes)\n• 3 things you can hear (e.g., traffic, birds)\n• 2 things you can smell (e.g., coffee, rain)\n• 1 thing you can taste (e.g., gum, water)\nThis exercise shifts your focus away from racing thoughts and back to your immediate environment."
+        },
+        {
+          "heading": "Breathing Exercises",
+          "content": "Deep breathing signals your brain to calm down and relax. Try 'Box Breathing':\n1. Inhale slowly for 4 counts.\n2. Hold your breath for 4 counts.\n3. Exhale slowly for 4 counts.\n4. Hold for 4 counts before inhaling again.\nRepeat this cycle for a few minutes whenever you feel tension rising."
+        },
+        {
+          "heading": "Cognitive Reframing",
+          "content": "Anxiety often involves 'catastrophizing'—expecting the worst possible outcome. Challenge these thoughts by asking yourself: Is this thought based on fact or feeling? What is a more realistic outcome? Reframing helps build a balanced perspective."
+        }
+      ]
+    },
+    {
+      "id": "building-resilience",
+      "title": "Building Resilience",
+      "icon": "shield.fill",
+      "readTime": "5 min",
+      "sections": [
+        {
+          "heading": "What is Resilience?",
+          "content": "Resilience isn't about avoiding stress or hardship; it's about the ability to bounce back from difficult experiences. Like a muscle, resilience can be strengthened through practice and mindset shifts."
+        },
+        {
+          "heading": "Cultivate a Growth Mindset",
+          "content": "View challenges as opportunities for growth rather than insurmountable obstacles. Instead of asking 'Why is this happening to me?', try asking 'What can I learn from this?' This shift empowers you to take actionable steps forward."
+        },
+        {
+          "heading": "Connect with Others",
+          "content": "Building strong, positive relationships with creative and supportive people can provide a safety net during tough times. Sharing your feelings with trusted friends or family members reduces the burden of carrying stress alone."
+        },
+        {
+          "heading": "Practice Self-Compassion",
+          "content": "Treat yourself with the same kindness you would offer a friend. Acknowledge your struggles without judgment. Remember that setbacks are part of the human experience, not a sign of failure."
+        }
+      ]
+    },
+    {
+      "id": "mindfulness-daily",
+      "title": "Daily Mindfulness Habits",
+      "icon": "leaf.fill",
+      "readTime": "4 min",
+      "sections": [
+        {
+          "heading": "What is Mindfulness?",
+          "content": "Mindfulness is the practice of paying attention to the present moment without judgment. It helps reduce stress, improve focus, and increase emotional regulation."
+        },
+        {
+          "heading": "Morning Routine",
+          "content": "Start your day with intention. Before checking your phone, take three deep breaths and set an intention for how you want to feel today. Notice the sensation of waking up, the light in the room, and the comfort of your bed."
+        },
+        {
+          "heading": "Mindful Eating",
+          "content": "Turn a daily meal into a mindfulness practice. Pay attention to the colors, smells, textures, and flavors of your food. Chew slowly and minimize distractions like TV or scrolling. This not only improves digestion but cultivates gratitude."
+        },
+        {
+          "heading": "Mindful Walking",
+          "content": "Whether commuting or taking a break, notice the sensation of your feet touching the ground, the rhythm of your breath, and the sights around you. Bringing awareness to simple movements can be deeply grounding."
+        }
+      ]
+    },
+    {
+      "id": "journaling-clarity",
+      "title": "Journaling for Mental Clarity",
+      "icon": "book.closed.fill",
+      "readTime": "5 min",
+      "sections": [
+        {
+          "heading": "Why Journal?",
+          "content": "Journaling is a powerful tool for processing emotions, identifying patterns in your mood, and gaining clarity on complex situations. It creates a safe space to unload thoughts without fear of judgment."
+        },
+        {
+          "heading": "Getting Started",
+          "content": "You don't need to be a writer. Set a timer for 5-10 minutes and just write whatever comes to mind ('stream of consciousness'). Don't worry about grammar or structure. The goal is expression, not perfection."
+        },
+        {
+          "heading": "Prompt Ideas",
+          "content": "If you're feeling stuck, try these prompts:\n• 'What is weighing heaviest on my mind right now?'\n• 'What are three things that went well today?'\n• 'What advice would I give a friend in my situation?'\n• 'I feel most at peace when...'"
+        }
+      ]
+    },
+    {
+      "id": "coping-burnout",
+      "title": "How to Cope with Burnout",
+      "icon": "battery.0.fill",
+      "readTime": "6 min",
+      "sections": [
+        {
+          "heading": "Recognizing Burnout",
+          "content": "Burnout is a state of physical, emotional, and mental exhaustion caused by prolonged stress. Signs include chronic fatigue, cynicism, detachment from work or relationships, and a sense of inefficacy."
+        },
+        {
+          "heading": "Rest vs. Sleep",
+          "content": "Sleep is crucial, but it's not the only form of rest. You may need emotional rest (processing feelings), sensory rest (unplugging from screens/noise), or creative rest (enjoying nature or art). Identify which type of depletion you're feeling."
+        },
+        {
+          "heading": "Set Boundaries",
+          "content": "Learn to say 'no' to commitments that drain your energy. Protect your personal time by disconnecting from work emails after hours and prioritizing activities that replenish you."
+        },
+        {
+          "heading": "Seek Support",
+          "content": "Burnout can feel isolating. Reach out to a supervisor, therapist, or support group. discussing workload adjustments or simply venting can provide relief and perspective."
+        }
+      ]
+    },
+    {
+      "id": "sleep-hygiene",
+      "title": "Sleep Hygiene Tips",
+      "icon": "moon.zzz.fill",
+      "readTime": "4 min",
+      "sections": [
+        {
+          "heading": "Consistent Schedule",
+          "content": "Go to bed and wake up at the same time every day, even on weekends. This regularity strengthens your body's sleep-wake cycle (circadian rhythm), making it easier to fall asleep and wake up naturally."
+        },
+        {
+          "heading": "Create a Sanctuary",
+          "content": "Optimize your bedroom for sleep: keep it cool (around 65°F/18°C), dark (use blackout curtains), and quiet. Reserve your bed for sleep and intimacy only, so your brain associates it with rest."
+        },
+        {
+          "heading": "Digital Detox",
+          "content": "The blue light emitted by phones and screens suppresses melatonin, the sleep hormone. Try to avoid screens locally 30-60 minutes before bed. Instead, read a book, stretch, or listen to calming music."
+        },
+        {
+          "heading": "Wind-Down Routine",
+          "content": "Establish a relaxing pre-sleep ritual to signal your body it's time to rest. This could include a warm bath, gentle yoga, meditation, or drinking herbal tea."
+        }
+      ]
+    }
+  ]
+}
